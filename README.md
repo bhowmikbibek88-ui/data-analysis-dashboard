@@ -21,3 +21,8 @@ Features :
 ✔ Power Query Data Transformation
 ✔ Data Modeling & DAX Calculations
 ✔ Dynamic Filters and Visual Insights
+
+
+
+  sales dashboaed
+  <img width="1342" height="746" alt="Screenshot 2026-06-22 115154" src="https://github.com/user-attachments/assets/f4f403c9-badf-4b22-9f6f-7429375a00ff" /> 
