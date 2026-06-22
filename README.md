@@ -5,7 +5,6 @@ Data Source: Superstore Sales Dataset – a sample retail dataset widely used fo
 
              
 Tools & Technologies Used
-
 * Power BI
 * Microsoft Excel
 * Power Query
@@ -16,7 +15,6 @@ These tools were used for data cleaning, transformation, modeling, KPI creation,
 
 
 Features
-
 ✔ Interactive Dashboard
 ✔ Sales, Profit, Quantity & Discount Analysis
 ✔ Regional & Category-wise Performance Tracking
