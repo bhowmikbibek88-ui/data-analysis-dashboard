@@ -14,7 +14,7 @@ Tools & Technologies Used
 These tools were used for data cleaning, transformation, modeling, KPI creation, and interactive dashboard visualization to generate meaningful business insights from sales data.
 
 
-Features
+Features :
 ✔ Interactive Dashboard
 ✔ Sales, Profit, Quantity & Discount Analysis
 ✔ Regional & Category-wise Performance Tracking
